@@ -1,0 +1,17 @@
+*{
+	margin: 0; 
+	padding: 0;     /* body-8px*/
+    text-decoration: none;   /*a */
+    font-style:normal;
+    padding: 0;  /*  h*/
+    list-style: none;    /* li */
+
+}
+form{
+	display: block;
+}
+.banner_all{
+	background-color: #BDCCD4;
+	width: 100%;
+    height: 278px;
+}
